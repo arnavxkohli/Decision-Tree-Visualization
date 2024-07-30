@@ -1,4 +1,4 @@
-# Decision Trees Coursework
+# Decision Trees
 
 ## Table of contents
 
